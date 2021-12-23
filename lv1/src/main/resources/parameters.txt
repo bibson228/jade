@@ -1,0 +1,11 @@
+# Parameter: Value in node. Note: first line is center node.
+0
+21
+1
+6
+4
+5
+6
+43
+1
+34
